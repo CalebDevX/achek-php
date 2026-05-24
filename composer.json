@@ -1,0 +1,37 @@
+{
+  "name": "achek/sdk",
+  "description": "Official PHP SDK for Achek — WhatsApp OTP, AI chatbots & business messaging for Nigeria",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    { "name": "Achek", "email": "dev@achek.com.ng", "homepage": "https://achek.com.ng" }
+  ],
+  "keywords": ["achek", "otp", "whatsapp", "nigeria", "verification", "2fa", "chatbot"],
+  "homepage": "https://achek.com.ng",
+  "support": {
+    "docs": "https://docs.achek.com.ng",
+    "issues": "https://github.com/CalebDevX/achek-php/issues",
+    "source": "https://github.com/CalebDevX/achek-php"
+  },
+  "require": {
+    "php": ">=8.1",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-hash": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AchekConnect\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "AchekConnect\\Tests\\": "tests/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
