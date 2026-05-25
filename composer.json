@@ -1,5 +1,5 @@
 {
-  "name": "achek/sdk",
+  "name": "achek/achek",
   "description": "Official PHP SDK for Achek — WhatsApp OTP, AI chatbots & business messaging for Nigeria",
   "type": "library",
   "license": "MIT",
