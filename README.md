@@ -1,14 +1,14 @@
-# achek/sdk — PHP SDK
+# achek/achek — PHP SDK
 
 Official PHP SDK for [Achek](https://achek.com.ng) — WhatsApp OTP, automated alerts, transaction notifications, broadcasts, support ticket tracking, transactional email, and webhook utilities for Nigeria and Africa.
 
-[![Packagist](https://img.shields.io/packagist/v/achek/sdk)](https://packagist.org/packages/achek/sdk)
+[![Packagist](https://img.shields.io/packagist/v/achek/achek)](https://packagist.org/packages/achek/achek)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Install
 
 ```bash
-composer require achek/sdk
+composer require achek/achek
 ```
 
 ## Quick Start

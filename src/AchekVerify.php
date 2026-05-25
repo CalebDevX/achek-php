@@ -5,7 +5,7 @@ namespace AchekConnect;
 /**
  * Achek Connect PHP SDK
  *
- * composer require achek/sdk
+ * composer require achek/achek
  *
  * @example
  *   <?php
